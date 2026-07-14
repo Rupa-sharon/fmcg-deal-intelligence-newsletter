@@ -2,7 +2,7 @@
 
 An agentic pipeline that sources, cleans, filters, and summarizes recent FMCG (Fast-Moving Consumer Goods) M&A and investment news into a concise, skimmable newsletter — built for the Benori AI Engineer assignment.
 
-**Live demo:** _add your Streamlit Cloud URL here_
+**Live demo:** https://fmcg-deal-intelligence-newsletter-kzgmgd8vmc6pzehafifada.streamlit.app/
 
 ## Problem statement
 
